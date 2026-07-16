@@ -20,8 +20,7 @@ export default function BirthdayScreen() {
 
   return (
     <div 
-      style={{ backgroundColor: '#FFF0F1' }}
-      className={`min-h-screen flex flex-col items-center justify-center p-6 transition-opacity duration-1000 ease-out relative overflow-hidden ${
+      className={`min-h-screen flex flex-col items-center justify-center p-6 transition-opacity duration-1000 ease-out relative overflow-hidden bg-[url('/testing2.png')] bg-cover bg-center bg-no-repeat ${
         animateIn ? 'opacity-100' : 'opacity-0'
       }`}
     >
@@ -62,7 +61,7 @@ export default function BirthdayScreen() {
                   HALOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO SEENGGG
                 </p>
                 <p>
-                  Dikarenakan hari ini kamu ulang tahun aku mau kasih suprise tapi kayanya telat hehehe maaf peace lovu
+                  Dikarenakan hari ini kamu ulang tahun aku mau ngasih surprise web ini tapi telat..., maaf banget ya jujur da agak lupa dikit cara bikinnya jujur...
                 </p>
               </div>
               <div className="pt-2 text-sm font-medium text-[#A7ABDE] animate-pulse">
@@ -83,7 +82,7 @@ export default function BirthdayScreen() {
                   Ada banyak banget hal yang pengen aku sampein sih sebenernya. tapi kapan-kapan aja deh hohoho, 
                 </p>
                 <p>
-                  Walaupun aku sering sibuk dan bete, tapi kamu sering bikin jadi mood booster buat aku, sering kasi semangat dan sering dengerin cerita aku.
+                  Sebelumnya mau ngomong makasi ke kamu yang udah nemenin aku terus walaupun aku nyebelin dan sering nyusahin kamu tapi aku bener bener sayang banget sama kamu, makasi da bertahan terus walaupun banyak hal yang udah kita laluin akhir-akhir ini. jujur gatau mau ngomong apa gapernah ngasi long text. Tapi di kemudian hari nanti semoga kamu bisa ngelakuin apa yang kamu mau, dapet semua yang kamu mau, dan segala hal yang kamu cita-citakan. sama makasi ya da ada terus dikehidupan aku. jangan mara mara terus ya dan jangan cuek ke aku, aku sedi hehe
                 </p>
                 <p>
                   Jangan bosen bosen ya kyl... 
